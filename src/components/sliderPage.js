@@ -1,8 +1,7 @@
 import React, { Component, PropTypes } from 'react';
 import {React_Boostrap_Carousel} from 'react-boostrap-carousel';
-import webpush from 'web-push';
-
 import Notification  from 'react-web-notification';
+
 class SliderPage extends Component {
 
   constructor(props) {
